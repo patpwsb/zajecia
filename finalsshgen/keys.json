@@ -1,0 +1,18 @@
+[
+    {
+        "key_name": "id_ed25519_patziom",
+        "email": "patziom@gmail.com",
+        "hostname": "github.com",
+        "alias": "patziom",
+        "key_path": "C:\\Users\\48730\\Desktop\\guzikssh\\keys\\id_ed25519_patziom",
+        "created": "2025-05-20 10:25:09"
+    },
+    {
+        "key_name": "id_ed25519_patziom123",
+        "email": "patziom123@gmail.com",
+        "hostname": "github.com",
+        "alias": "patziom123",
+        "key_path": "C:\\Users\\48730\\Desktop\\guzikssh\\keys\\id_ed25519_patziom123",
+        "created": "2025-05-20 10:26:53"
+    }
+]
